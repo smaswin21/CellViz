@@ -8,8 +8,11 @@ Cellular Automata inspired by live-data visualization, designed to handle multid
   <img src="https://github.com/user-attachments/assets/5206dec2-d7c7-43cb-b913-4b2c32efb07d" alt="Output Image">
 </div>
 
+## Requirements
 
+- Find more about the project here : [Documentation](https://velocitatem.github.io/CellViz/)
 
+  
 ## Authors
 ![Contributors](https://contrib.rocks/image?repo=velocitatem/CellViz)
 
